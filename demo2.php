@@ -1,5 +1,4 @@
 <?
 
-echo $a = a4 ;
 echo $b = 1;
-
+echo $a =a2;
