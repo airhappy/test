@@ -1,3 +1,4 @@
 <?
 
-echo $a =a3 ;
+echo $a =b ;
+
